@@ -1,4 +1,4 @@
-#The Grimoire Gambit
+## The Grimoire Gambit
 
 ## What idea(s) do you have for your final project?
 
